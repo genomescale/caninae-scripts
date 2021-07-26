@@ -356,9 +356,3 @@ respectively.
 ## Step 11
 
 To generate Supplementary Figure 10, run `substitutions.R`
-
-# Testing correctness
-
-Code and results for this analysis is available on GitHub:
-
-https://github.com/genomescale/msc-fbd-correctness
